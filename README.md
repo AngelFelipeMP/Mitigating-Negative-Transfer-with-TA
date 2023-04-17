@@ -1,10 +1,5 @@
 # Mitigating Negative Transfer with Task Awareness for Sexism, Hate Speech, and Toxic Language Detection
 
-
-![ScreenShot](Figures\MTL-models.svg)
-<img src="Figures\MTL-models.svg">
-
-![ScreenShot](.\Figures\MTL-models.svg)
 <img src=".\Figures\MTL-models.svg">
 
 # Description
