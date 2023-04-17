@@ -2,6 +2,10 @@
 
 
 ![ScreenShot](Figures\MTL-models.svg)
+<img src="Figures\MTL-models.svg">
+
+![ScreenShot](.\Figures\MTL-models.svg)
+<img src=".\Figures\MTL-models.svg">
 
 # Description
 This repository contains the code for the paper **Mitigating Negative Transfer with Task Awareness for Sexism, Hate Speech, and Toxic Language Detection**. 
