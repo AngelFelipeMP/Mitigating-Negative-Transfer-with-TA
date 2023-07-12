@@ -16,7 +16,7 @@ If you find this [article](https://arxiv.org/pdf/2307.03377.pdf) or the [code](h
 ```
 @inproceedings{depaula2022mitigati,
   title={Mitigating Negative Transfer with Task Awareness for Sexism, Hate Speech, and Toxic Language Detection},
-  author={de Paula, Angel Felipe Magnossão and Rosso, Paolo and Spina, Damiano},
+  author={Magnoss{\~a}o de Paula, Angel Felipe and Rosso, Paolo and Spina, Damiano},
   booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
   year={2023},
   organization={IEEE},
